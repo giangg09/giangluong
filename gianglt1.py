@@ -79,3 +79,16 @@ def chamdiem(rf):
     cau_sai = list()
     dem_soluongdiemcao = 0 
     tong_diem = 0
+    trung_vi = 0
+    #Tinh tong diem, so luong diem cao va trung vi
+    for v in lst_diem:
+        trong_diem += v
+        if v > 80:
+            dem_soluongdiemcao += 1
+            
+    
+    
+    
+    
+    
+    
