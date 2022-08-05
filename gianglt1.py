@@ -78,4 +78,4 @@ def chamdiem(rf):
     cau_boqua = list()
     cau_sai = list()
     dem_soluongdiemcao = 0 
-    
+    tong_diem = 0
